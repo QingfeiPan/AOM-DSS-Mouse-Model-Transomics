@@ -1,0 +1,2 @@
+cp /leofs/wulin_group/zhangcm/panqf/protein/02_MaxQuant/01_quant_extract/01_s1_quant_extract_unique_razor_LFQ.txt /leofs/wulin_group/zhangcm/panqf/protein/02_MaxQuant/03_heterogeneity/01_protein_abundance_LFQ_unique_razor.txt
+cp /leofs/wulin_group/zhangcm/panqf/protein/02_MaxQuant/01_quant_extract/01_s2_quant_extract_unique_LFQ.txt /leofs/wulin_group/zhangcm/panqf/protein/02_MaxQuant/03_heterogeneity/01_protein_abundance_LFQ_unique.txt
